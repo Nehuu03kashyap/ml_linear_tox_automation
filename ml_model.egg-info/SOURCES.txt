@@ -1,0 +1,9 @@
+setup.py
+ml_model.egg-info/PKG-INFO
+ml_model.egg-info/SOURCES.txt
+ml_model.egg-info/dependency_links.txt
+ml_model.egg-info/top_level.txt
+model/__init__.py
+model/predict.py
+model/train.py
+test/test.py
