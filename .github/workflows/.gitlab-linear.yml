@@ -1,5 +1,5 @@
 stages:
- - test
+- test
  - deploy
 # Job to run tests
 test_job:
@@ -10,4 +10,5 @@ test_job:
 deploy_job:
  stage: deploy
  script:
- - tox -e deploy # This will run the deployment 
+ - tox -e deploy # This will run the deployment
+
